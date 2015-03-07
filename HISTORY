@@ -1,0 +1,27 @@
+=========================================
+VDR Plugin 'femonclient' Revision History
+=========================================
+
+2005-08-28: Version 0.0.1
+
+- Initial revision.
+
+2007-01-08: Version 0.0.2
+
+- Updated Makefile and include paths.
+
+2007-07-19: Version 0.0.3
+
+- Updated default target to all in Makefile.
+
+2010-03-05: Version 0.0.4
+
+- Updated Makefile.
+
+2013-02-10: Version 0.0.5
+
+- Updated Makefile.
+
+2014-01-06: Version 0.0.6
+
+- Updated Makefile.
